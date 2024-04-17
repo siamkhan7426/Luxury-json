@@ -1,0 +1,112 @@
+
+ [
+    {
+      "id": 1,
+      "estate_title": "Luxury Penthouse with Skyline Views",
+      "segment_name": "Luxury",
+      "description": "Experience urban living at its finest in this luxury penthouse boasting breathtaking skyline views. With sleek design, premium finishes, and exclusive amenities, this penthouse offers the epitome of cosmopolitan luxury.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "New York City, USA",
+      "image_url": "https://example.com/luxury-penthouse-nyc.jpg",
+      "facilities": ["Roof Terrace", "Private Elevator", "Gym", "Concierge Service"]
+    },
+    {
+      "id": 2,
+      "estate_title": "Exquisite Beachfront Villa",
+      "segment_name": "Luxury",
+      "description": "Escape to paradise in this exquisite beachfront villa with panoramic ocean views. Featuring luxurious interiors, private beach access, and resort-style amenities, this villa offers the ultimate coastal retreat.",
+      "price": "$3,500,000",
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Maui, Hawaii",
+      "image_url": "https://example.com/beachfront-villa-maui.jpg",
+      "facilities": ["Private Beach Access", "Infinity Pool", "Spa", "Outdoor Kitchen"]
+    },
+    {
+      "id": 3,
+      "estate_title": "Luxury Island Resort",
+      "segment_name": "Luxury",
+      "description": "Indulge in luxury and seclusion at this exclusive island resort. With pristine beaches, lush tropical gardens, and world-class amenities, this resort offers an unforgettable escape from the ordinary.",
+      "price": "$20,000/night",
+      "status": "rent",
+      "area": "Entire Resort",
+      "location": "Maldives",
+      "image_url": "https://example.com/island-resort-maldives.jpg",
+      "facilities": ["Private Villas", "Overwater Bungalows", "Spa", "Fine Dining Restaurants", "Water Sports"]
+    },
+    {
+      "id": 4,
+      "estate_title": "Private Island Paradise",
+      "segment_name": "Luxury",
+      "description": "Own your slice of paradise with this private island retreat. With pristine beaches, crystal-clear waters, and luxurious accommodations, this island offers the ultimate in privacy and exclusivity.",
+      "price": "$50,000,000",
+      "status": "sale",
+      "area": "Entire Island",
+      "location": "Fiji",
+      "image_url": "https://example.com/private-island-fiji.jpg",
+      "facilities": ["Beachfront Villas", "Infinity Pool", "Helipad", "Yacht Dock"]
+    },
+    {
+      "id": 5,
+      "estate_title": "Luxury Tuscan Villa",
+      "segment_name": "Luxury",
+      "description": "Immerse yourself in the charm of Tuscany with this luxury villa surrounded by vineyards and olive groves. With exquisite architecture, lush gardens, and panoramic views, this villa offers a quintessential Tuscan experience.",
+      "price": "$8,000,000",
+      "status": "sale",
+      "area": "6000 sq ft",
+      "location": "Florence, Italy",
+      "image_url": "https://example.com/tuscan-villa.jpg",
+      "facilities": ["Vineyard", "Infinity Pool", "Outdoor Dining Area", "Gourmet Kitchen"]
+    },
+    {
+      "id": 6,
+      "estate_title": "Luxury Mansion in the Hamptons",
+      "segment_name": "Luxury",
+      "description": "Live the Hamptons lifestyle in this sprawling luxury mansion nestled in the heart of East Hampton. With manicured gardens, a tennis court, and a pool house, this estate offers unparalleled elegance and sophistication.",
+      "price": "$30,000,000",
+      "status": "sale",
+      "area": "15000 sq ft",
+      "location": "East Hampton, USA",
+      "image_url": "https://example.com/luxury-mansion-hamptons.jpg",
+      "facilities": ["Tennis Court", "Pool House", "Guest Cottage", "Home Theater"]
+    },
+    {
+      "id": 7,
+      "estate_title": "Luxury Ski Chalet",
+      "segment_name": "Luxury",
+      "description": "Escape to the slopes in style with this luxurious ski chalet. With ski-in/ski-out access, private hot tubs, and stunning mountain views, this chalet offers the ultimate alpine retreat.",
+      "price": "$6,000/night",
+      "status": "rent",
+      "area": "3500 sq ft",
+      "location": "Verbier, Switzerland",
+      "image_url": "https://example.com/luxury-ski-chalet.jpg",
+      "facilities": ["Ski-in/Ski-out Access", "Hot Tub", "Sauna", "Home Theater"]
+    },
+    {
+      "id": 8,
+      "estate_title": "Luxury Desert Retreat",
+      "segment_name": "Luxury",
+      "description": "Experience the magic of the desert in this luxurious retreat nestled amidst sand dunes and starry skies. With private plunge pools, Arabian-style tents, and gourmet dining, this retreat offers an oasis of serenity.",
+      "price": "$3,000/night",
+      "status": "rent",
+      "area": "2500 sq ft",
+      "location": "Dubai, UAE",
+      "image_url": "https://example.com/desert-retreat.jpg",
+      "facilities": ["Private Plunge Pool", "Arabian-style Tents", "Spa", "Camel Rides"]
+    },
+    {
+      "id": 9,
+      "estate_title": "Luxury Waterfront Estate",
+      "segment_name": "Luxury",
+      "description": "Enjoy waterfront living at its finest in this luxury estate overlooking the bay. With expansive outdoor spaces, a private dock, and panoramic views, this estate offers the perfect blend of luxury and coastal charm.",
+      "price": "$12,000,000",
+      "status": "sale",
+      "area": "8000 sq ft",
+      "location": "Miami Beach, USA",
+      "image_url": "https://example.com/waterfront-estate-miami.jpg",
+      "facilities": ["Private Dock", "Infinity Pool", "Outdoor Kitchen", "Boat Lift"]
+    }
+  ]
+
